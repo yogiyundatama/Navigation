@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Isi_Disini">Isi Disini</string>
+    <string name="plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Multiply">x</string>
+    <string name="Divide">/</string>
+    <string name="hasil">Hasil</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="profil">Profil</string>
+</resources>
